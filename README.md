@@ -30,7 +30,7 @@
   ## How your data  **<u>needs</u>** to look like:
   - Your data exported from BORIS or ILAM and also your ethogram file needs to be in the .xlsx format.
 
-  - Your files needs to have this pattern: 01_Mali.Angèle_23.01.23_matin_BI.xlsx. INDEX_FOCAL.INDIVIDUAL_DAY.MONTH.YEAR_MOMENTOFTHEDAY_(BI OR UNI).xlsx. What really matters and NEED to be in that way is the INDEX, FOCAL and INDIVIDUAL.
+  - Your files needs to have this pattern: 01_Mali.Angèle_23.01.23_matin_BI.xlsx. INDEX_FOCAL.PARTNER.xlsx. What really matters and NEED to be in that way is the INDEX, FOCAL and PARTNER.
 
   - Data file needs to have at least this four columns Subject, Time, Behavior and Behavior type. Any other columns will be disregarded
 
