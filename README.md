@@ -14,7 +14,7 @@
   ² Aix Marseille Univ, CNRS, ILCB  
   ³ Aix Marseille Univ, CNRS, LPL, Aix-en-Provence, França  
   ⁴ Aix Marseille Univ, CNRS, LIS-UMR 7020, Marseille, França
-
+ 
 </div>
 
 
@@ -25,7 +25,7 @@
 - ## DATA/Merged Interactions:
 
   ### **What is this Data**?
-  This available data was collected by Lise HABIB-DASSETTO and Mathilde ADET an you can use as examples for your studies.
+  This available data was collected by Lise HABIB-DASSETTO and Mathilde ADET, you can use it as an examples for your studies.
 
   ## How your data  **<u>needs</u>** to look like:
   - Your data exported from BORIS or ELAN and also your ethogram file needs to be in the .xlsx format.
