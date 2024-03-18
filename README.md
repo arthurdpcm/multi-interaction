@@ -56,17 +56,17 @@
 
     ### Ethogram
     
-| Behavior code                      | Behavior type | Key | Behavioral category | Social value | Code  | Modality |
-|------------------------------------|---------------|-----|---------------------|--------------|-------|----------|
-| $ - Entre dans le champs de vision | Point event   | D   | Meta                | *            | meta* | NA       |
-| $ - Sort du champs de vision       | Point event   | S   | Meta                | *            | meta* | NA       |
-| $ - pause                          | State event   | s   | Meta                | *            | meta* | NA       |
-| $ - end                            | Point event   | z   | End                 | *            | end*  | NA       |
-| B - Se met debout                  | Point event   | c   | Body movement       | *            | B*    | B        |
-| e - Enlace congénère               | State event   | C   | Tactile signal      | +            | T+    | T        |
-| r - Se retourne vers               | Point event   | c   | Body movement       | *            | B*    | B        |
-| t - Tourne la tête vers            | Point event   | c   | Body movement       | *            | B*    | B        |
-...
+    | Behavior code                      | Behavior type | Key | Behavioral category | Social value | Code  | Modality |
+    |------------------------------------|---------------|-----|---------------------|--------------|-------|----------|
+    | $ - Entre dans le champs de vision | Point event   | D   | Meta                | *            | meta* | NA       |
+    | $ - Sort du champs de vision       | Point event   | S   | Meta                | *            | meta* | NA       |
+    | $ - pause                          | State event   | s   | Meta                | *            | meta* | NA       |
+    | $ - end                            | Point event   | z   | End                 | *            | end*  | NA       |
+    | B - Se met debout                  | Point event   | c   | Body movement       | *            | B*    | B        |
+    | e - Enlace congénère               | State event   | C   | Tactile signal      | +            | T+    | T        |
+    | r - Se retourne vers               | Point event   | c   | Body movement       | *            | B*    | B        |
+    | t - Tourne la tête vers            | Point event   | c   | Body movement       | *            | B*    | B        |
+    ...
 
 
 
