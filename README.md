@@ -1,1 +1,1 @@
-# boris-sequence-analysis
+# Multi sequence
