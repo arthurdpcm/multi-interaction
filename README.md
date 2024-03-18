@@ -28,7 +28,7 @@
   This available data was collected by Lise HABIB-DASSETTO and Mathilde ADET an you can use as examples for your studies.
 
   ## How your data  **<u>needs</u>** to look like:
-  - Your data exported from BORIS or ILAM and also your ethogram file needs to be in the .xlsx format.
+  - Your data exported from BORIS or ELAN and also your ethogram file needs to be in the .xlsx format.
 
   - Your files needs to have this pattern: 01_Mali.Angèle_23.01.23_matin_BI.xlsx. INDEX_FOCAL.PARTNER.xlsx. What really matters and NEED to be in that way is the INDEX, FOCAL and PARTNER.
 
