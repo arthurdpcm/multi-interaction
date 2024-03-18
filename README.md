@@ -25,7 +25,7 @@
 - ## DATA/Merged Interactions:
 
   ### **What is this Data**?
-  This available data was collected by Lise and Mathilde an you can use as examples for your studies.
+  This available data was collected by Lise HABIB-DASSETTO and Mathilde ADET an you can use as examples for your studies.
 
   ## How your data  **<u>needs</u>** to look like:
   - Your data exported from BORIS or ILAM and also your ethogram file needs to be in the .xlsx format.
