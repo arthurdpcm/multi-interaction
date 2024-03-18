@@ -2,10 +2,10 @@
 
   <!-- !Logo Multi-sequence  Substitua o # pelo link da imagem do logo quando estiver disponível -->
 
-  ## Multi-Seq
+  ## Multi-Interaction
   ### Software to process and analyze multimodal interactions sequences
 
-  The MultiSeq project was set up to process data from annotated multimodal and dyadic interactions. It was developped **Lise HABIB-DASSETTO***  ¹ ² ³, **Jules CAUZINILLE** ¹ ² ⁴, **Arthur MARQUES** ³, together exploring interactionnal and communicative abilities of non-human primates.
+  The Multi-Interaction project was set up to process data from annotated multimodal and dyadic interactions. It was developped **Lise HABIB-DASSETTO***  ¹ ² ³, **Jules CAUZINILLE** ¹ ² ⁴, **Arthur MARQUES** ³, together exploring interactionnal and communicative abilities of non-human primates.
   
 
   Corresponding Author: **habiblise@gmail.com**
