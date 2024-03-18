@@ -2,7 +2,7 @@
 
   <!-- !Logo Multi-sequence  Substitua o # pelo link da imagem do logo quando estiver disponível -->
 
-  ## Multi-sequence
+  ## Multi-Seq
   ### Software to analyze two individuals interactions.
   #### This work is supported by the Institute of Convergence ILCB (ANR-16-CONV-0002).
 
