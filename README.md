@@ -4,9 +4,9 @@
 
   ## Multi-Seq
   ### Software to analyze two individuals interactions.
-  #### This work is supported by the Institute of Convergence ILCB (ANR-16-CONV-0002).
 
-  **Lise HABIB-DASSETTO***  ¹ ² ³, **Jules CAUZINILLE** ¹ ² ⁴, **Arthur MARQUES** ³
+  The MultiSeq project was set up to process data from annotated multimodal and dyadic interactions. It was developped **Lise HABIB-DASSETTO***  ¹ ² ³, **Jules CAUZINILLE** ¹ ² ⁴, **Arthur MARQUES** ³, together exploring interactionnal and communicative abilities of non-human primates.
+  
 
   Corresponding Author: **habiblise@gmail.com**
 
@@ -226,3 +226,6 @@
         overlap_csv = pd.read_csv(sequences_overlap_file, names=column_names)
     
     ```
+
+
+### This work is supported by the Institute of Convergence ILCB (ANR-16-CONV-0002).
