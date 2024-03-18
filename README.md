@@ -1,14 +1,24 @@
-# Multi-modal Sequences
-
-
-++++
 <div align="center">
-  <h1>Multi-sequence</h1>
-  <h4>Software to analyze two individuals interaction.</h4>
-  <p><img src="" alt="Multi-sequence logo" width="500px" /></p>
+
+  <!-- !Logo Multi-sequence  Substitua o # pelo link da imagem do logo quando estiver disponível -->
+
+  ## Multi-sequence
+  ### Software to analyze two individuals interactions.
+  #### This work is supported by the Institute of Convergence ILCB (ANR-16-CONV-0002).
+
+  **Lise HABIB-DASSETTO***  ¹ ² ³, **Jules CAUZINILLE** ¹ ² ⁴, **Arthur MARQUES** ³
+
+  Corresponding Author: **habiblise@gmail.com**
+
+  ¹ Aix Marseille Univ, CNRS, CRPN-UMR 7077, Marseille, França  
+  ² Aix Marseille Univ, CNRS, ILCB  
+  ³ Aix Marseille Univ, CNRS, LPL, Aix-en-Provence, França  
+  ⁴ Aix Marseille Univ, CNRS, LIS-UMR 7020, Marseille, França
 
 </div>
-++++
+
+
+
 
 ## Files:
 
@@ -30,32 +40,39 @@
 
     ### Dataframe
 
-    | Subject | Time   | Behavior                        | Behavior type |
-    |---------|--------|---------------------------------|---------------|
-    | Angèle  | 281.640 | t - Tourne la tête vers        | POINT         |
-    | Feya    | 281.640 | Entre dans le champs de vision | POINT         |
-    | Angèle  | 282.480 | Entre dans le champs de vision | POINT         |
-    | Angèle  | 282.720 | g - Grunt supposé              | POINT         |
-    | Feya    | 283.080 | K - Se lève à quatre pattes    | POINT         |
-    | Feya    | 283.080 | a - Approche                   | START         |
-    | Angèle  | 283.920 | l - Lipsmack                   | START         |
-    | Angèle  | 284.760 | l - Lipsmack                   | STOP          |
+    | Subject  | Time   | Behavior                        | Behavior type |
+    |----------|--------|---------------------------------|---------------|
+    | Lomé     | 22.292 | Entre dans le champs de vision  | POINT         |
+    | Nekketsu | 22.292 | B - Se met debout               | POINT         |
+    | Nekketsu | 22.292 | Entre dans le champs de vision  | POINT         |
+    | Nekketsu | 22.855 | e - Enlace congénère            | START         |
+    | Lomé     | 23.955 | e - Enlace congénère            | START         |
+    | Lomé     | 32.655 | e - Enlace congénère            | STOP          |
+    | Lomé     | 32.656 | end                             | POINT         |
+    | Nekketsu | 33.179 | e - Enlace congénère            | STOP          |
+    | Nekketsu | 33.180 | end                             | POINT         |
+
 
 
     ### Ethogram
     
-    | Behavior code        | Behavior type | Description | Key | Behavioral category | Excluded behaviors |
-    | -------------------- | ------------- | ----------- | --- | ------------------- | ------------------ |
-    | A - S'assoit         | Point event   |             |  c  |                     |                    |
-    | C - Crouch           | State event   |             |  c  |                     |                    |
-    | D - Shaking displays | Point event   |             |  c  |                     |                    |
-    | G - Se groom         | State event   |             |  c  |                     |                    |
+| Behavior code                      | Behavior type | Key | Behavioral category | Social value | Code  | Modality |
+|------------------------------------|---------------|-----|---------------------|--------------|-------|----------|
+| $ - Entre dans le champs de vision | Point event   | D   | Meta                | *            | meta* | NA       |
+| $ - Sort du champs de vision       | Point event   | S   | Meta                | *            | meta* | NA       |
+| $ - pause                          | State event   | s   | Meta                | *            | meta* | NA       |
+| $ - end                            | Point event   | z   | End                 | *            | end*  | NA       |
+| B - Se met debout                  | Point event   | c   | Body movement       | *            | B*    | B        |
+| e - Enlace congénère               | State event   | C   | Tactile signal      | +            | T+    | T        |
+| r - Se retourne vers               | Point event   | c   | Body movement       | *            | B*    | B        |
+| t - Tourne la tête vers            | Point event   | c   | Body movement       | *            | B*    | B        |
+...
 
 
 
 - ## boris2sentence.ipynb: 
 
-    ### Required packages:
+    ### Required packages:  
     To install packages in python you can use `pip install <package_name>`.
 
     <ul>
