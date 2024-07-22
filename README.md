@@ -25,7 +25,7 @@
 - ## DATA/Merged Interactions:
 
   ### **What is this Data**?
-  This available data was collected by Lise HABIB-DASSETTO and Mathilde ADET, you can use it as an examples for your studies.
+  This available data was collected by Lise HABIB-DASSETTO and Mathilde ADET in 2023 on a group of 18 Guinea baboons, you can use it as an examples for your studies.
 
   ## How your data  **<u>needs</u>** to look like:
   - Your exported data from BORIS or ELAN and also your ethogram file needs to be in the .xlsx format.
